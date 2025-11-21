@@ -1,1 +1,1 @@
-Để có routing ngoài + trong, hệ thống cần cấu trúc như sau:
+#Quy trình tích hợp OSM (ngoài trời) với dữ liệu tòa nhà nội khu (indoor) → mục tiêu cuối cùng: tìm đường liền mạch từ ngoài → vào tòa nhà → tới từng phòng.
